@@ -2,7 +2,8 @@
 
 A Daraz-style product listing built with **MVVM + SOLID** principles.  
 The core challenge of this task is **scroll architecture** and api.
-
+---
+[**Live Demo**](https://hasan-uddin.github.io/flutter_daraz_clone/)
 ---
 
 ## Run Instructions
